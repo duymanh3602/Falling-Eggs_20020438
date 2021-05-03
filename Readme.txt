@@ -34,6 +34,7 @@ IV, Tài liệu tham khảo
 	+, https://github.com/AngularsCoding/Car-Game
 	+, https://blogkhanhtoan.wordpress.com/2016/03/07/mot-so-ham-mo-rong-trong-cc/
 	+, https://github.com/duymanh3602/A-Game-LeaderBoard 
+	+, Và nhiều nguồn tài liệu mở khác...
 
 Dear!!
 Duy Manh

@@ -4,7 +4,7 @@ Mã Sinh Viên : 20020438
 Phiên bản IDE sử dụng: Code::Blocks 20.03
 
 I, Hướng dẫn cài đặt
-	+, Download project tại link:
+	+, Download project tại link: https://github.com/duymanh3602/Falling-Eggs_20020438
 	+, Kiểm tra xem đã có 2 file: 'score.txt' và 'name.txt' đã có trong thư mục 'data' hay chưa.
 		-, Nếu có rồi chơi bình thường( có tính năng LeaderBoard).
 		-, Nếu chưa có thể không cần( nếu không muốn dùng LeaderBoard) hoặc tạo thêm 2 tệp đó nếu muốn. 
@@ -12,6 +12,7 @@ I, Hướng dẫn cài đặt
 II, Hướng dẫn chơi game
 	+, Chọn 1 (Start Game), nhập tên (phục vụ cho LeaderBoard), chọn độ khó(Game mode), và chơi
 	+, Sử dụng bàn phím để điều khiển "Rổ" hứng những quả trứng xuất hiện ngẫu nhiên trên màn hình.
+	+, Lưu ý: Tắt Vietkey để chơi.
 	+, Phím 'a' để di chuyển sang trái.
 	+, Phím 'd' để di chuyển sang phải.
 	+, Phím 'esc' để thoát game.

@@ -29,6 +29,10 @@ III, Các tính năng của Game
 	+, Hiển thị dễ nhìn, dễ chơi
 		-, Hiển thị tên người chơi, điểm, mạng chơi còn lại, kỷ lục điểm của mình.
 	+, Lựa chọn tính năng bằng bàn phím, điều khiển game hoàn toàn bằng bàn phím -> dễ dàng chơi bằng laptop.
+IV, Tài liệu tham khảo
+	+, https://github.com/AngularsCoding/Car-Game
+	+, https://blogkhanhtoan.wordpress.com/2016/03/07/mot-so-ham-mo-rong-trong-cc/
+	+, https://github.com/duymanh3602/A-Game-LeaderBoard 
 
 Dear!!
 Duy Manh

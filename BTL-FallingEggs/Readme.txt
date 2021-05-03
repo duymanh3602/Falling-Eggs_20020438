@@ -20,6 +20,8 @@ III, Các tính năng của Game
 		-, Game có 3 độ khó: Dễ (Easy) với 8 mạng chơi, Trung Bình (Medium) với 6 mạng chơi, Khó (Hard) với 4 mạng 
 		-, Tăng độ khó (tăng tốc độ rơi của trứng) mỗi 20 điểm đạt được.
 		-, Cộng 1 mạng chơi mỗi 40 điểm đạt được.
+	+, Chế độ đấu 1v1
+		-, 2 người bạn đấu với nhau, ai cao điểm hơn người đó chiến thắng.
 	+, Tính năng Bảng xếp hạng(LeaderBoard)
 		-, Sử dụng nhập xuất với tệp để tạo 1 bảng xếp hạng xuyên suốt thời gian chơi (kể cả khi tắt Game).
 		-, Xếp hạng từ cao đến thấp các Player có điểm kỷ lục.

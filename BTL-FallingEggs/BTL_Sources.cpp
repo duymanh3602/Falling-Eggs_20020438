@@ -43,14 +43,14 @@ void drawBorder()
     {
 		for(int j=0; j<17; j++)
 		{
-			gotoxy(0+j,i); cout<<"¤";
-			//gotoxy(WIN_WIDTH-j,i); cout<<"¤";
+			gotoxy(0+j,i); cout<<"Â¤";
+			//gotoxy(WIN_WIDTH-j,i); cout<<"Â¤";
 		}
 	}
 	for(int i=0; i<SCREEN_HEIGHT; i++)
 	{
-		gotoxy(WIN_WIDTH-16,i); cout<<"¤";
-		gotoxy(SCREEN_WIDTH,i); cout<<"¤";
+		gotoxy(WIN_WIDTH-16,i); cout<<"Â¤";
+		gotoxy(SCREEN_WIDTH,i); cout<<"Â¤";
 	}
 }
 
@@ -236,15 +236,8 @@ void play(int hard)
 		eraseBasket();
 		eraseTarget(0);
 
-		if( targetY[0] == 10 )
-			if( targetFlag[1] == 0 )
-				targetFlag[1] = 1;
-
 		if( targetFlag[0] == 1 )
 			targetY[0] += 1;
-
-		if( targetFlag[1] == 1 )
-			targetY[1] += 1;
 
 		if( targetY[0] > SCREEN_HEIGHT-4 )
         {
